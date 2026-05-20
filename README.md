@@ -1,51 +1,43 @@
-<h1 align="center">👋 Hola, soy Axel</h1>
-<h3 align="center">💻 Desarrollador | 🚀 Aprendiendo cada día</h3>
+# Axel Reyes  
+### *Construyendo cosas útiles, una línea de código a la vez.*
+
+Hola 👋, soy **Tu Nombre**, un desarrollador apasionado por crear soluciones reales con tecnología. Me gusta aprender constantemente y convertir ideas en proyectos funcionales.
 
 ---
 
-### 🧠 Sobre mí
-- 🌱 Actualmente aprendiendo **JavaScript / Python**
-- 🎯 Meta: Convertirme en desarrollador profesional
-- ⚡ Dato curioso: Me gusta la tecnología y crear cosas
+## 🚀 Sobre mí  
+- 💡 Me interesa: desarrollo web, apps y tecnología  
+- 🌱 Actualmente aprendiendo: nuevas herramientas y mejores prácticas  
+- 🎯 Meta: crecer como desarrollador y crear proyectos que impacten  
+- ⚡ Dato curioso: me gusta resolver problemas y automatizar cosas  
 
 ---
 
-### 🚀 Tecnologías
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+## 🛠️ Tecnologías y herramientas  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
+## 📊 Mis estadísticas  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🏆 Trofeos
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1" />
-</p>
+## 📂 Proyectos destacados  
+- 🔗 [Proyecto 1](#) – breve descripción  
+- 🔗 [Proyecto 2](#) – breve descripción  
+- 🔗 [Proyecto 3](#) – breve descripción  
 
 ---
 
-### 🌐 Redes
-<p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+## 🤝 Conecta conmigo  
+- 📧 Email: tuemail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/tuusuario  
 
 ---
 
-### 🐍 Contribuciones animadas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐ *Gracias por visitar mi perfil*
+## ✨ Frase personal  
+*"El código no solo resuelve problemas, también cuenta historias."*
